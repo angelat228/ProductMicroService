@@ -1,0 +1,14 @@
+# Visual Studio folders
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Launch settings & secrets
+launchSettings.json
+appsettings.Development.json
